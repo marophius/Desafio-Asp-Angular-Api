@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+      "KulaDB": "Server=localhost;Database=KulaDB;Uid=root;Pwd=123456789;"
+    }
+}

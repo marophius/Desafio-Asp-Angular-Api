@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4dkeAzWsHQztDcQlN/VuLlbN+qLO7NJ0ADTUQ90gKvJZQtGjYg/ElOQOFjhiLUGEr1mntrfO13m59qwFpRkqtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ifeme\\source\\repos\\Desafio-Asp-Angular-API\\Desafio.Dominio\\Desafio.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ifeme\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
